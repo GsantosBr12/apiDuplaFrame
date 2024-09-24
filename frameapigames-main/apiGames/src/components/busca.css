@@ -1,0 +1,11 @@
+div h1{
+    position: relative;
+    left: 850px;
+}
+div ul{
+    position: relative;
+    left: 770px;
+    list-style: none;
+    font-family: monospace;
+    font-size: 25px;
+}

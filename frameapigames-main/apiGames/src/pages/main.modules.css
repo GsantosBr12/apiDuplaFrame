@@ -1,0 +1,22 @@
+.home {
+    font-family: monospace;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 70%;
+}
+
+.home h1 {
+    font-size: 25px;
+    position: relative;
+    left: 850px;
+}
+
+.home img {
+    position: relative;
+left: 300px;
+}
+
+h1 {
+    font-family: monospace;
+}

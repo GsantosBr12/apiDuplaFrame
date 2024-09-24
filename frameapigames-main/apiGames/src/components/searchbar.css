@@ -1,0 +1,17 @@
+button{
+    color: #fff;
+    background-color: blue;
+    border-radius: 5px;
+    padding:7px ;
+    font-family: monospace;
+    border: 0px;
+    margin-left: 10px;
+}
+form input{
+   padding: 3px;
+
+}
+form{
+    position: relative;
+    left: 800px;
+}
